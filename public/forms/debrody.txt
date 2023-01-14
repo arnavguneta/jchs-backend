@@ -1,0 +1,13 @@
+To: debrody@fultonschools.org
+From:  [Email]
+
+
+Subject:  Email from JCHS Website
+
+Name Field: 		[Name]
+Email Field: 		[Email]
+
+Reason:				[Category]
+
+Message:			[Message]
+

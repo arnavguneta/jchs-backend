@@ -1,0 +1,132 @@
+Dan's Tools
+cleancss.com/css-beautify
+CSS Beautifier
+Development
+Encode/Decoders
+Formatters
+Images
+Internet
+Minifiers
+SEO
+Related: CSS MinifyHTML FormatterJavascript Formatter
+Tweet Follow @danstools00  
+
+1
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+2
+only screen and (min-device-pixel-ratio: 2) {
+3
+    .logo {
+4
+        background: url(../images/retina/logo%402x.png) top left no-repeat;
+5
+        background-size: 100%;
+6
+    }
+7
+    .navbar-shrink .logo {
+8
+        background: url(../images/retina/logo-dark%402x.png) top left no-repeat;
+9
+        background-size: 100%;
+10
+    }
+11
+    #contacts .mail_chimp_form_container input.button {
+12
+        background: #1a1b1b url(../images/retina/send%402x.png) center center no-repeat;
+13
+        background-size: 40%;
+14
+    }
+15
+    .modal .close {
+16
+        background: url(../images/retina/close%402x.png) top left no-repeat;
+17
+        background-size: 100%;
+18
+    }
+19
+    #contacts .other-contacts p,
+20
+    #contacts .other-contacts a {
+21
+        font-weight: normal;
+22
+    }
+23
+    .lf {
+24
+        background: url(../images/retina/logo%402x.png) no-repeat center center;
+25
+        background-size: 100%;
+26
+        position: relative;
+27
+        display: table;
+28
+        margin: 0 auto;
+29
+    }
+30
+    .socialdiv.colored .facebook {
+31
+        background: url(../images/retina/facebook%402x.png) -4px -2px no-repeat;
+32
+        -webkit-background-size: 80px 40px;
+33
+        -moz-background-size: 80px 40px;
+34
+        -o-background-size: 80px 40px;
+35
+        background-size: 80px 40px;
+36
+    }
+37
+    .socialdiv.colored .twitter {
+38
+        background: url(../images/retina/twitter%402x.png) -37px -1px no-repeat;
+39
+        -webkit-background-size: 80px 40px;
+40
+        -moz-background-size: 80px 40px;
+41
+        -o-background-size: 80px 40px;
+42
+        background-size: 80px 40px;
+43
+    }
+44
+    .socialdiv.colored .forrst {
+45
+        background: url(../images/retina/forrst%402x.png) -37px -2px no-repeat;
+
+
+Format Code
+
+
+
+
+HTML <style>, <script> formatting: End script and style with newline?  Detect packers and obfuscators?  Keep array indentation?  Break lines on chained methods?  Space before conditional: "if(x)" / "if (x)"  Unescape printable chars encoded as \xNN or \uNNNN?  Use JSLint-happy formatting tweaks?
+CSS Beautifier
+Enter your messy, minified, or obfuscated CSS Style Sheets into the field above to have it cleaned up and made pretty. The editor above also contains helpful line numbers and syntax highlighting. There are many option to tailor the beautifier to your personal formatting tastes.
+
+When do you use CSS Beautifier
+Often when writing CSS Style Sheets your indentation, spacing, and other formatting can become a bit disorganized. It is also common for multiple developers to work on a single project who have different formatting techniques.  This tool is helpful for making the formatting of a file consistent. It is also common for CSS Style Sheets to be minified or obfuscated. You can use this tool to make that code look pretty and readable so it is easier to edit.
+
+Examples
+The minified CSS Style Sheets below:
+
+body{font-family:Georgia, Times, serif;color:purple;background-color:#d8da3d}h1{font-family:Helvetica, Arial}
+Becomes this beautified :
+
+body {
+    font-family: Georgia, Times, serif;
+    color: purple;
+    background-color: #d8da3d
+}
+h1 {
+    font-family: Helvetica, Arial
+}
+© Dan's Tools | Contact | About | For more dev tools, check out danstools.com
